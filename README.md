@@ -13,8 +13,8 @@ I’m a passionate and self-driven full stack developer based in Dhaka. I specia
 
 ### 🚀 Currently Working On
 
-- 🏃 A Marathon Handling Website to manage registration, scheduling & tracking
-- 🔍 Deep-diving into advanced **Node.js** concepts and performance optimization
+- 🏃 Building real time website to fix real world problem
+- 🔍 Deep-diving into advanced **Node.js** and **Next.js** concepts and performance optimization
 
 ---
 
